@@ -1,5 +1,2 @@
-.\rajenv\Scripts\activate
-
-cd R-Learning
-
-python '.\cutsilence.py'
+.\.venv\Scripts\activate   
+$env:PYSPARK_PYTHON="D:\Rajendra-Tech\GitHubRepos\PySpark\PySpark\.venv\Scripts\python.exe"
